@@ -1,0 +1,75 @@
+********************************************************************************
+PACKAGE-LOG: 2016-02-12 10:40:18
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.1.4
+WORDPRESS:	4.4.2
+PHP INFO:	5.5.9 | SAPI: apache2handler
+SERVER:		Apache/2.4.7 (Win32) OpenSSL/1.0.1e PHP/5.5.9 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 5000M (128M default) 
+MEMORY STACK: 16.5MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported 
+TABLES: total:215 | filtered:0 | create:215 
+FILTERED: [] 
+SQL CREATED: 20160212_pabnauniversityofscienceand_56bdb67ad10f59274160212103954_database.sql 
+SQL FILE SIZE: 10.18MB (10670803) 
+SQL FILE TIME: 2016-02-12 10:40:26 
+SQL RUNTIME: 8.05 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  C:/xampp/htdocs/pust 
+ARCHIVE FILE: 20160212_pabnauniversityofscienceand_56bdb67ad10f59274160212103954_archive.zip 
+FILTERS: *OFF* 
+DIRS:  not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	60.47MB 
+STATS:	Dirs 394 | Files 3,015 
+SQL ADDED: 20160212_pabnauniversityofscienceand_56bdb67ad10f59274160212103954_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 3409
+    [filename] => C:\xampp\htdocs\pust\wp-snapshots\tmp\20160212_pabnauniversityofscienceand_56bdb67ad10f59274160212103954_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 41.05MB 
+ARCHIVE RUNTIME: 22.07 sec. 
+MEMORY STACK: 17.75MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+Template parsed with new data 
+Complete [C:/xampp/htdocs/pust/wp-snapshots/tmp/20160212_pabnauniversityofscienceand_56bdb67ad10f59274160212103954_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 10.18MB 
+Installer File: 318.9KB 
+Archive File: 41.05MB  
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 30.99 sec.
+PEAK PHP MEMORY USED: 20.25MB
+DONE PROCESSING => 20160212_pabnauniversityofscienceand 2016-02-12 10:40:49
+ 
